@@ -5,21 +5,13 @@
 var reverseWords = function(s) {
     let output = '';
     let word = '';
-    let flipWord = str => {
-        let l = 0, r = str.length - 1;
-        const w = str.split(''); 
-        while (l < r) [w[r--], w[l++]] = [w[l], w[r]];
-        str = w.join('');
-        output += str + ' ';
-        word = '';
-    }
-    for (let i in s) {
-        if (i == s.length - 1) {
-            word += s[i];
-            flipWord(word);
+    for (let i of s) {
+        if (i === ' ') {
+            output += word + i;
+            word = '';
+        } else {
+            word = i + word;
         }
-        else if (s[i] !== ' ') word += s[i];
-        else flipWord(word);
     }
-    return output.trim();
+    return output + word;
 };
