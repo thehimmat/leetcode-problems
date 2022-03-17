@@ -10,8 +10,8 @@
  * @return {ListNode}
  */
 var middleNode = function(head) {
-    var isEven = true;
-    var middleNode = head;
+    let isEven = true;
+    let middleNode = head;
     const iterateNodes = node => {
         isEven = !isEven;
         if (isEven) middleNode = middleNode.next
