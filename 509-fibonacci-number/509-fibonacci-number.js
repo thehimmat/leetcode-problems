@@ -1,0 +1,9 @@
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var fib = function(n) {
+    if (n < 2) return n;
+    var f = 0;
+    return f += fib(n-1) + fib(n-2);
+};
