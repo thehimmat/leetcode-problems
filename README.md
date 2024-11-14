@@ -16,6 +16,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thehimmat/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/thehimmat/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thehimmat/leetcode-problems/tree/master/0067-add-binary) |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
@@ -39,4 +40,12 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/thehimmat/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/thehimmat/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
