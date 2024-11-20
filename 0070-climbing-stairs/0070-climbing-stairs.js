@@ -2,17 +2,10 @@
  * @param {number} n
  * @return {number}
  */
-var climbStairs = function(n) {
-    if (n <= 2) return n
+var climbStairs = function(n, memo = {}) {
+    if (n <= 2) return n // base cases
+    if (memo[n]) return memo[n] // check if solution already found
 
-    let prev2 = 1
-    let prev1 = 2
-    let current = 0
-
-    for (let i = 3; i <= n; i++) {
-        current = prev2 + prev1
-        prev2 = prev1
-        prev1 = current
-    }
-    return current
+    memo[n] = climbStairs(n-1, memo) + climbStairs(n-2, memo) // store previous result 
+    return memo[n] // exit recursion or return final solution
 };
