@@ -10,8 +10,6 @@
  * @return {ListNode}
  */
 var deleteDuplicates = function(head) {
-    if (!head || !head.next) return head;
-
     let current = head
 
     while (current && current.next) {
