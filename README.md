@@ -12,6 +12,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/thehimmat/leetcode-problems/tree/master/0066-plus-one) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thehimmat/leetcode-problems/tree/master/0067-add-binary) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thehimmat/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
