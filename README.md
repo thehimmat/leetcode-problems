@@ -11,6 +11,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thehimmat/leetcode-problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/thehimmat/leetcode-problems/tree/master/0066-plus-one) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
@@ -66,4 +67,8 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thehimmat/leetcode-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
