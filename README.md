@@ -53,10 +53,12 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | ------- |
 | [0002-add-two-numbers](https://github.com/thehimmat/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thehimmat/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/thehimmat/leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thehimmat/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/thehimmat/leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
