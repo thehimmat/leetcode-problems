@@ -12,7 +12,6 @@ var isAnagram = function(s, t) {
     for (const char of t) {
         if (!list[char]) return false
         list[char] = list[char] - 1
-        if (list[char] === 0) delete list[char]
     }
-    return Object.keys(list).length ? false : true;
+    return true;
 };
