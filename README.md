@@ -8,6 +8,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | ------- |
 | [0058-length-of-last-word](https://github.com/thehimmat/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/thehimmat/leetcode-problems/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | ------- |
 | [0001-two-sum](https://github.com/thehimmat/leetcode-problems/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/thehimmat/leetcode-problems/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -88,4 +90,8 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/thehimmat/leetcode-problems/tree/master/0133-clone-graph) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
