@@ -81,10 +81,12 @@ My effort to complete at least one Leetcode practice problem per day while searc
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thehimmat/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/thehimmat/leetcode-problems/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thehimmat/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/thehimmat/leetcode-problems/tree/master/0133-clone-graph) |
 ## Graph
 |  |
@@ -94,4 +96,12 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thehimmat/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thehimmat/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
