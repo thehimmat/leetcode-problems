@@ -9,6 +9,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0058-length-of-last-word](https://github.com/thehimmat/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/thehimmat/leetcode-problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/thehimmat/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -106,4 +107,8 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thehimmat/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/thehimmat/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
