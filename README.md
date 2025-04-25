@@ -17,6 +17,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0001-two-sum](https://github.com/thehimmat/leetcode-problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/thehimmat/leetcode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thehimmat/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/thehimmat/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Math
