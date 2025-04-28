@@ -20,6 +20,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0066-plus-one](https://github.com/thehimmat/leetcode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thehimmat/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/thehimmat/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/thehimmat/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/thehimmat/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thehimmat/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -53,6 +54,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/thehimmat/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/thehimmat/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
