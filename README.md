@@ -19,6 +19,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0001-two-sum](https://github.com/thehimmat/leetcode-problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/thehimmat/leetcode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thehimmat/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/thehimmat/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/thehimmat/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thehimmat/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -120,4 +121,8 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0151-reverse-words-in-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/thehimmat/leetcode-problems/tree/master/1894-merge-strings-alternately) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/thehimmat/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
