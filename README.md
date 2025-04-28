@@ -8,6 +8,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | ------- |
 | [0058-length-of-last-word](https://github.com/thehimmat/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/thehimmat/leetcode-problems/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/thehimmat/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -116,6 +117,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/thehimmat/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
