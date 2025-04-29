@@ -11,6 +11,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0151-reverse-words-in-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/thehimmat/leetcode-problems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/thehimmat/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/thehimmat/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -122,6 +123,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/thehimmat/leetcode-problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/thehimmat/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
