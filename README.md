@@ -27,6 +27,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0334-increasing-triplet-subsequence](https://github.com/thehimmat/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/thehimmat/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thehimmat/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Math
@@ -97,6 +98,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0001-two-sum](https://github.com/thehimmat/leetcode-problems/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/thehimmat/leetcode-problems/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +135,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0345-reverse-vowels-of-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/thehimmat/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/thehimmat/leetcode-problems/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/thehimmat/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
