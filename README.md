@@ -30,6 +30,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0643-maximum-average-subarray-i](https://github.com/thehimmat/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thehimmat/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/thehimmat/leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Math
@@ -143,6 +144,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/thehimmat/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/thehimmat/leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
