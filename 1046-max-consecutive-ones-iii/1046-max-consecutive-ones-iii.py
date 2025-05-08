@@ -1,6 +1,6 @@
 class Solution:
     def longestOnes(self, nums: List[int], k: int) -> int:
-        l = max_ones = zero_count = 0
+        l, max_ones, zero_count = 0, 0, 0
         for r in range(len(nums)):
             if nums[r] == 0:
                 zero_count += 1
