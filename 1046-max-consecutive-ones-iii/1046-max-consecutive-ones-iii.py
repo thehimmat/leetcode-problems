@@ -9,5 +9,4 @@ class Solution:
                     zero_count -= 1
                 l += 1
             max_ones = max(max_ones, r - l + 1)
-
         return max_ones
