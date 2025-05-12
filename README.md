@@ -28,6 +28,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0334-increasing-triplet-subsequence](https://github.com/thehimmat/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/thehimmat/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/thehimmat/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/thehimmat/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/thehimmat/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thehimmat/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thehimmat/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -148,6 +149,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/thehimmat/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/thehimmat/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/thehimmat/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/thehimmat/leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
