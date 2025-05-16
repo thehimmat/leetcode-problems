@@ -30,6 +30,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0643-maximum-average-subarray-i](https://github.com/thehimmat/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/thehimmat/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/thehimmat/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/thehimmat/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thehimmat/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thehimmat/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thehimmat/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -107,6 +108,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0001-two-sum](https://github.com/thehimmat/leetcode-problems/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/thehimmat/leetcode-problems/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1319-unique-number-of-occurrences](https://github.com/thehimmat/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thehimmat/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Depth-First Search
