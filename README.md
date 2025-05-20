@@ -37,6 +37,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thehimmat/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/thehimmat/leetcode-problems/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/thehimmat/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Math
@@ -59,6 +60,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thehimmat/leetcode-problems/tree/master/0067-add-binary) |
+| [2428-equal-row-and-column-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
@@ -113,6 +115,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [1392-find-the-difference-of-two-arrays](https://github.com/thehimmat/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/thehimmat/leetcode-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,4 +173,8 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/thehimmat/leetcode-problems/tree/master/1777-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
