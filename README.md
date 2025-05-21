@@ -17,6 +17,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thehimmat/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/thehimmat/leetcode-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/thehimmat/leetcode-problems/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +62,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | ------- |
 | [0067-add-binary](https://github.com/thehimmat/leetcode-problems/tree/master/0067-add-binary) |
 | [2428-equal-row-and-column-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thehimmat/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
@@ -177,4 +179,8 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/thehimmat/leetcode-problems/tree/master/2428-equal-row-and-column-pairs) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
