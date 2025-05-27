@@ -12,6 +12,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | [0242-valid-anagram](https://github.com/thehimmat/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/thehimmat/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/thehimmat/leetcode-problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/thehimmat/leetcode-problems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/thehimmat/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thehimmat/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -94,6 +95,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | ------- |
 | [0002-add-two-numbers](https://github.com/thehimmat/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/thehimmat/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/thehimmat/leetcode-problems/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +186,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/thehimmat/leetcode-problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/thehimmat/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/thehimmat/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
