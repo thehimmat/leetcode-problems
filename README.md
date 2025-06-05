@@ -132,6 +132,7 @@ My effort to complete at least one Leetcode practice problem per day while searc
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thehimmat/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/thehimmat/leetcode-problems/tree/master/0133-clone-graph) |
+| [0904-leaf-similar-trees](https://github.com/thehimmat/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,10 +152,12 @@ My effort to complete at least one Leetcode practice problem per day while searc
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thehimmat/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/thehimmat/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thehimmat/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/thehimmat/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 ## Two Pointers
 |  |
 | ------- |
